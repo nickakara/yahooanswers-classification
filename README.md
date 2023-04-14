@@ -20,7 +20,7 @@ This project uses a Yahoo Answers dataset to train multiple machine learning mod
 
 - [Introduction](#introduction)
 
-- [Packages](#packages)
+- [Packages Used](#packages-used)
 
 - [Data](#data)
 
