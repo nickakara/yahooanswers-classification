@@ -37,16 +37,16 @@ answers, categories and sub-categories. However, the dataset used for this study
 are used:
 
 <ol>
-  <li>1. Society & Culture</li>
-  <li>2. Science & Mathematics</li>
-  <li>3. Health</li>
-  <li>4. Education & Reference</li>
-  <li>5. Computers & Internet</li>
-  <li>6. Sports</li>
-  <li>7. Business & Finance</li>
-  <li>8. Entertainment & Music</li>
-  <li>9. Family & Relationships</li>
-  <li>10. Politics & Government</li>
+  <li>Society & Culture</li>
+  <li>Science & Mathematics</li>
+  <li>Health</li>
+  <li>Education & Reference</li>
+  <li>Computers & Internet</li>
+  <li>Sports</li>
+  <li>Business & Finance</li>
+  <li>Entertainment & Music</li>
+  <li>Family & Relationships</li>
+  <li>Politics & Government</li>
 </ol>
 
 
