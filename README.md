@@ -141,4 +141,4 @@ Model performance increases as there are more samples to test. However, the rate
 
 ## Remarks
 
-It is important to note that this project was not primarily designed to identify models with the best classification performance, but rather to balance efficiency and computational resources. However, it should be emphasized that if the objective is to maximize the cost function solely based on accuracy, then deep learning models will be carefully evaluated, along with other models, to determine their potential to improve performance.
+It is important to note that this project was not primarily designed to identify models with the best classification performance, but rather to balance efficiency and computational resources. However, it should be emphasized that if the objective is to maximize the cost function solely based on accuracy, then deep learning models will be further evaluated, along with other models, to determine their potential to improve performance.
