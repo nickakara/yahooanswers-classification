@@ -125,7 +125,7 @@ Describe the machine learning algorithms and techniques that were used in this p
 
 LSTM, FastText (optimised) and Logistic Regression were the best-performing models for the classification. 
 
-<img width="1003" alt="Screenshot 2023-04-14 at 8 18 13 pm" src="https://user-images.githubusercontent.com/91995206/232136585-1e2031fa-81d2-4001-a276-de01263f7854.png">
+<img width="625" alt="Screenshot 2023-04-14 at 8 18 13 pm" src="https://user-images.githubusercontent.com/91995206/232136585-1e2031fa-81d2-4001-a276-de01263f7854.png">
 
 However, when model training time is taken into consideration, Multinomial Naive Bayes, FastText (base model) and Logistic Regression are models with the best performance to training time ratio.
 
