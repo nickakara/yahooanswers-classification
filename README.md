@@ -117,10 +117,16 @@ Describe the machine learning algorithms and techniques that were used in this p
 
 ## Insights
 
-  
+<img width="625" alt="graph_eval" src="https://user-images.githubusercontent.com/91995206/232135517-ffcac6fc-494a-48e7-babe-b64da559f0c3.png">
+
 LSTM, FastText (optimised) and Logistic Regression were the best-performing models for the classification. However, when model training time is taken into consideration, Multinomial Naive Bayes, FastText (base model) and Logistic Regression are models with the best performance to training time ratio.
 
-Furthermore, the optimal number of sample was also looked at. Model performance increases as there are more samples to test. However, the rate of change in model accuracy starts plateauing when the sample size reached 60% (n=180412). As a result, model performance increased the most when training size is less than 100,000 questions.
+
+<img width="757" alt="sizevsscore" src="https://user-images.githubusercontent.com/91995206/232136023-f37bfaaf-2b89-484e-9d0d-facadb56c7e0.png">
+
+
+
+Model performance increases as there are more samples to test. However, the rate of change in model accuracy starts plateauing when the sample size reached 60% (n=180412). As a result, model performance increased the most when training size is less than 100,000 questions.
 
 
   
