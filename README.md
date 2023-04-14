@@ -20,17 +20,15 @@ This project uses a Yahoo Answers dataset to train multiple machine learning mod
 
 - [Introduction](#introduction)
 
-- [Technologies](#technologies)
+- [Packages](#packages)
 
 - [Data](#data)
 
 - [Methods](#methods)
 
-- [Results](#results)
+- [Insights](#insights)
 
-- [Usage](#usage)
-
-- [License](#license)
+- [Remarks](#remarks)
 
   
   
@@ -127,10 +125,6 @@ Furthermore, the optimal number of sample was also looked at. Model performance 
 
   
 
-## Usage
+## Remarks
 
-  
-
-Provide instructions on how to use the model. Include any dependencies that need to be installed, and provide examples of how to run the model.
-
-  
+It is important to note that this project was not primarily designed to identify models with the best classification performance, but rather to balance efficiency and computational resources. However, it should be emphasized that if the objective is to maximize the cost function solely based on accuracy, then deep learning models will be carefully evaluated, along with other models, to determine their potential to improve performance.
