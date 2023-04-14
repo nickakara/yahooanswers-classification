@@ -109,6 +109,8 @@ a question with the label of 4, 2 and 7 is most likely under the Education & Ref
 
 ## Methods
 
+
+
   
 
 Describe the machine learning algorithms and techniques that were used in this project. How were they implemented? What parameters were used?
@@ -117,9 +119,15 @@ Describe the machine learning algorithms and techniques that were used in this p
 
 ## Insights
 
+
 <img width="625" alt="graph_eval" src="https://user-images.githubusercontent.com/91995206/232135517-ffcac6fc-494a-48e7-babe-b64da559f0c3.png">
 
-LSTM, FastText (optimised) and Logistic Regression were the best-performing models for the classification. However, when model training time is taken into consideration, Multinomial Naive Bayes, FastText (base model) and Logistic Regression are models with the best performance to training time ratio.
+
+LSTM, FastText (optimised) and Logistic Regression were the best-performing models for the classification. 
+
+<img width="1003" alt="Screenshot 2023-04-14 at 8 18 13 pm" src="https://user-images.githubusercontent.com/91995206/232136585-1e2031fa-81d2-4001-a276-de01263f7854.png">
+
+However, when model training time is taken into consideration, Multinomial Naive Bayes, FastText (base model) and Logistic Regression are models with the best performance to training time ratio.
 
 
 <img width="757" alt="sizevsscore" src="https://user-images.githubusercontent.com/91995206/232136023-f37bfaaf-2b89-484e-9d0d-facadb56c7e0.png">
