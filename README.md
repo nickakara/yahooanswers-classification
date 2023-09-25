@@ -111,9 +111,6 @@ a question with the label of 4, 2 and 7 is most likely under the Education & Ref
 
 
 
-  
-
-Describe the machine learning algorithms and techniques that were used in this project. How were they implemented? What parameters were used?
 
   
 
