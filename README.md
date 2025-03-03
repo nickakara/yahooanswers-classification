@@ -49,13 +49,11 @@ This project uses a Yahoo Answers dataset to train multiple machine learning mod
 
 - NLTK
 
-NLTK was used extensively when testing preprocessing methodologies. The dataset requried extensive work and
-
-NLTK provided lots of fucntionality
+NLTK was used extensively when testing preprocessing methodologies. The dataset requried extensive work and NLTK provided lots of fucntionality
 
   
 
-Sciklit-learn
+- Sciklit-learn
 
 ML tool that allows the training of classification models
 
