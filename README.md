@@ -39,8 +39,6 @@ This project uses a Yahoo Answers dataset to train multiple machine learning mod
 
 - Python
 
-- Scikit-learn
-
 - Pandas
 
 - Matplotlib
